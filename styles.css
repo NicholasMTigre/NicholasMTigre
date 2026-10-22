@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f5f3ee;
+  color: #202d28;
+  font-family: system-ui, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-underline-offset: 0.25em;
+}
+
+a:focus-visible {
+  outline: 3px solid #202d28;
+  outline-offset: 4px;
+}
+
+.skip-link {
+  position: absolute;
+  top: 0.75rem;
+  left: 1rem;
+  transform: translateY(-200%);
+  padding: 0.75rem 1rem;
+  background: #202d28;
+  color: #f5f3ee;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.site-header {
+  border-bottom: 1px solid #c3c9c0;
+}
+
+.header-inner,
+.site-footer {
+  width: min(100% - 4rem, 70rem);
+  margin-inline: auto;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  padding-block: 1.25rem;
+}
+
+.site-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav a {
+  display: block;
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a[aria-current="page"] {
+  background: #202d28;
+  color: #f5f3ee;
+}
+
+main {
+  flex: 1;
+  width: min(100% - 4rem, 42rem);
+  margin-inline: auto;
+  padding-block: clamp(3rem, 12vh, 8rem);
+  overflow-wrap: break-word;
+}
+
+h1 {
+  margin: 0 0 1rem;
+  font-size: clamp(2.5rem, 8vw, 4.5rem);
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+}
+
+p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+.site-footer {
+  border-top: 1px solid #c3c9c0;
+  padding-block: 1.5rem;
+}
+
+.site-footer p {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 40rem) {
+  .header-inner,
+  main,
+  .site-footer {
+    width: calc(100% - 2rem);
+  }
+
+  .header-inner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  nav a {
+    padding: 0.75rem 0.625rem;
+  }
+}
