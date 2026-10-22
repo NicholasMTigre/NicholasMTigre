@@ -18,7 +18,7 @@ Verify actual services, equipment, operating credentials, permissions, insurance
 
 ## Hosting and verification
 Repository: https://github.com/NicholasMTigre/NicholasMTigre
-The GitHub Pages address has not been verified for this revision. The website retains relative paths for direct local viewing and GitHub Pages hosting.
+Custom domain: https://nicoaerometrics.com (DNS and HTTPS verification pending). GitHub Pages publishes the root folder of main automatically after pushes. CNAME preserves the domain setting; keep it in the repository. Cloudflare should point the apex to GitHub Pages and www to nicholasmtigre.github.io using DNS-only records. The website retains relative paths for local and hosted viewing.
 See TESTING.md for checks and pending browser tests.
 
 The previous class assignment requested a personal portfolio; this business direction was requested afterward and may require instructor approval if submitted for that assignment.
