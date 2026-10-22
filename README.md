@@ -6,7 +6,7 @@ A static, construction-focused drone business website owned by Nicholas Tigre. T
 Open index.html in a browser. No installation or build is required. All five pages use styles.css and script.js.
 
 ## Pages and features
-- Home: overview and an original illustrative site-plan graphic (not actual mapping data).
+- Home: scrolling overview, city photography, services, process, owner introduction, and email contact.
 - Services: proposed mapping, volume reporting, plan overlays, and progress documentation.
 - Process: scoping, planning, capture, and review.
 - Owner: Nicholas Tigre's introduction.
@@ -22,3 +22,12 @@ The GitHub Pages address has not been verified for this revision. The website re
 See TESTING.md for checks and pending browser tests.
 
 The previous class assignment requested a personal portfolio; this business direction was requested afterward and may require instructor approval if submitted for that assignment.
+
+## Visual direction and image credits
+The site uses navy backgrounds, cyan accents, a long scrolling homepage, and a final email contact section. The visual structure was inspired by https://ospreyperspectives.com/; its copy, client claims, and images were not reused.
+
+City photographs are downloaded Unsplash images, used as visual inspiration rather than examples of Nico Aerometrics work:
+- assets/city-skyline.jpg: image source https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b
+- assets/city-night.jpg: image source https://images.unsplash.com/photo-1519501025264-65ba15a82390
+- assets/city-waterfront.jpg: image source https://images.unsplash.com/photo-1518391846015-55a9cc003b25
+All images are stored locally and individually under 500 KB. The homepage photographs replace the previous illustrative site-plan graphic.

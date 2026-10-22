@@ -20,6 +20,12 @@ Source checks were run locally on 2026-10-22. Browser checks and live-site check
 | T14 | Accessibility | Run Lighthouse on each live page | Accessibility score at least 90 per page | Not run |
 | T15 | Console | Open every page and operate menu and inquiry | No JavaScript errors | Not run |
 | T17 | Email inquiry | Prepare a valid inquiry and open the email link; also test direct email without JS | Recipient is ntigre007@gmail.com; draft has correct subject and details; nothing sends automatically | Not run |
-| T16 | Graphic accessibility | Inspect home graphic with accessibility tools | Labeled illustrative diagram, not represented as client work | Not run |
+| T16 | Graphic accessibility | Inspect home photography with accessibility tools | Descriptive alt text; stock imagery not represented as client work | Not run |
 
 Record actual live URL, browser, date, failures, fixes, and retests when browser testing is completed. Public inquiry email: ntigre007@gmail.com. Email delivery uses the configured email app on the device and must be verified manually.
+
+## Navy redesign checks (2026-10-22)
+- Pass (source): all five pages have one h1 and valid local file references.
+- Pass (source): homepage services/contact anchors exist; all three photos have descriptive alt text.
+- Pass (file check): three downloaded photos are each under 500 KB; visually inspected image assets.
+- Pending browser: verify hero text contrast, photo cropping, smooth anchor scrolling, final contact email, and no overflow at 320px, 390px, and 1366px. Re-run mobile menu, inquiry, keyboard, and Lighthouse tests with the navy styling.
