@@ -29,3 +29,10 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass (source): homepage services/contact anchors exist; all three photos have descriptive alt text.
 - Pass (file check): three downloaded photos are each under 500 KB; visually inspected image assets.
 - Pending browser: verify hero text contrast, photo cropping, smooth anchor scrolling, final contact email, and no overflow at 320px, 390px, and 1366px. Re-run mobile menu, inquiry, keyboard, and Lighthouse tests with the navy styling.
+
+## Custom-domain verification (2026-10-22)
+- Pass: Cloudflare contains four DNS-only GitHub Pages A records and www CNAME to nicholasmtigre.github.io.
+- Pass: public resolver 1.1.1.1 returns all four GitHub Pages IPv4 addresses.
+- Pass: http://nicoaerometrics.com returns HTTP 200 and Nico Aerometrics branding.
+- Pass: GitHub Pages reports built, domain nicoaerometrics.com, source main / root. Pushes to main publish automatically.
+- Pending: valid HTTPS certificate for apex and www; initial checks failed certificate validation while GitHub reported no issued certificate. HTTPS enforcement remains off pending issuance. No certificate checks were bypassed.
