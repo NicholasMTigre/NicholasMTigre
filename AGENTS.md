@@ -1,8 +1,8 @@
-﻿# Tigre Drone Services
+﻿# Nico Aerometrics
 
 ## Direction
 - Nicholas requested a drone business website instead of the personal portfolio. This supersedes the previous portfolio content requirements.
-- Working business name: Tigre Drone Services. Owner: Nicholas Tigre. Confirm final name and public email with Nicholas.
+- Confirmed business name: Nico Aerometrics. Owner: Nicholas Tigre. Confirm public email with Nicholas.
 - Pages: index.html (Home), about.html (Owner), projects.html (Services), skills.html (Process), contact.html (Project inquiry).
 - Construction-focused positioning: aerial site documentation, orthomosaic mapping, stockpile reports, and design overlays. Do not invent completed work, equipment ownership, clients, credentials, insurance, prices, or guaranteed accuracy.
 - Clearly label illustrations and sample deliverables. Do not present them as actual client work.

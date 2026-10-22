@@ -1,6 +1,6 @@
-﻿# Tigre Drone Services
+﻿# Nico Aerometrics
 
-A static, construction-focused drone business website owned by Nicholas Tigre. Tigre Drone Services is a working business name awaiting confirmation.
+A static, construction-focused drone business website owned by Nicholas Tigre. The business name was confirmed by Nicholas.
 
 ## View locally
 Open index.html in a browser. No installation or build is required. All five pages use styles.css and script.js.
@@ -14,7 +14,7 @@ Open index.html in a browser. No installation or build is required. All five pag
 - Responsive navigation with keyboard support and a no-JavaScript fallback.
 
 ## Before business launch
-Confirm the final business name and public email. Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, accuracy guarantees, or prices are claimed.
+Confirm the public business email. Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, accuracy guarantees, or prices are claimed.
 
 ## Hosting and verification
 Repository: https://github.com/NicholasMTigre/NicholasMTigre
