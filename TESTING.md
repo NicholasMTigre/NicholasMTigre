@@ -19,6 +19,7 @@ Source checks were run locally on 2026-10-22. Browser checks and live-site check
 | T13 | Copy and fallback | Copy prepared message; repeat with clipboard permission unavailable | Clipboard works or selected text can be copied manually; honest status | Not run |
 | T14 | Accessibility | Run Lighthouse on each live page | Accessibility score at least 90 per page | Not run |
 | T15 | Console | Open every page and operate menu and inquiry | No JavaScript errors | Not run |
+| T17 | Email inquiry | Prepare a valid inquiry and open the email link; also test direct email without JS | Recipient is ntigre007@gmail.com; draft has correct subject and details; nothing sends automatically | Not run |
 | T16 | Graphic accessibility | Inspect home graphic with accessibility tools | Labeled illustrative diagram, not represented as client work | Not run |
 
-Record actual live URL, browser, date, failures, fixes, and retests when browser testing is completed. Public contact delivery remains unavailable until a business email or another contact channel is supplied.
+Record actual live URL, browser, date, failures, fixes, and retests when browser testing is completed. Public inquiry email: ntigre007@gmail.com. Email delivery uses the configured email app on the device and must be verified manually.

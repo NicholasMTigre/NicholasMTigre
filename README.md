@@ -10,11 +10,11 @@ Open index.html in a browser. No installation or build is required. All five pag
 - Services: proposed mapping, volume reporting, plan overlays, and progress documentation.
 - Process: scoping, planning, capture, and review.
 - Owner: Nicholas Tigre's introduction.
-- Project inquiry: browser-validated message preparation and copying. No message is transmitted or stored by the website.
+- Project inquiry: browser-validated message preparation, an email-app link, and copying. Inquiries go to ntigre007@gmail.com through the email app on the device; the website itself does not send or store messages.
 - Responsive navigation with keyboard support and a no-JavaScript fallback.
 
 ## Before business launch
-Confirm the public business email. Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, accuracy guarantees, or prices are claimed.
+Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, accuracy guarantees, or prices are claimed.
 
 ## Hosting and verification
 Repository: https://github.com/NicholasMTigre/NicholasMTigre

@@ -2,7 +2,7 @@
 
 ## Direction
 - Nicholas requested a drone business website instead of the personal portfolio. This supersedes the previous portfolio content requirements.
-- Confirmed business name: Nico Aerometrics. Owner: Nicholas Tigre. Confirm public email with Nicholas.
+- Confirmed business name: Nico Aerometrics. Owner: Nicholas Tigre. Approved public inquiry email: ntigre007@gmail.com.
 - Pages: index.html (Home), about.html (Owner), projects.html (Services), skills.html (Process), contact.html (Project inquiry).
 - Construction-focused positioning: aerial site documentation, orthomosaic mapping, stockpile reports, and design overlays. Do not invent completed work, equipment ownership, clients, credentials, insurance, prices, or guaranteed accuracy.
 - Clearly label illustrations and sample deliverables. Do not present them as actual client work.
@@ -14,7 +14,7 @@
 - Style: deep green, warm white, safety orange, strong typography, technical site-plan illustrations, generous spacing.
 - Consistent navigation on all five pages, one h1 per page, semantic HTML, visible keyboard focus, descriptive titles, and responsive layouts.
 - Mobile menu must use a button with accurate aria-expanded and support Escape. Navigation remains available without JavaScript.
-- No invented contact information, phone number, or home address. Until a public email is supplied, the inquiry tool prepares and copies a message; it never claims to send it.
+- No invented contact information, phone number, or home address. Use the approved public inquiry email ntigre007@gmail.com. The inquiry tool prepares an encoded mailto link and a copyable message; visitors review and send through their own email app. Never claim automatic delivery.
 - Keep interactions readable and explainable. Respect reduced-motion settings.
 
 ## Workflow

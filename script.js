@@ -33,7 +33,8 @@ if (inquiryForm) {
     const data = new FormData(inquiryForm);
     output.value = `Project inquiry for Nicholas Tigre\n\nName: ${data.get('name')}\nEmail: ${data.get('email')}\nService: ${data.get('service')}\nSite: ${data.get('location')}\n\n${data.get('details')}`;
     document.querySelector('#message-result').hidden = false;
-    status.textContent = 'Message prepared. Nothing has been sent. Copy it for your records.';
+    document.querySelector('#email-message').href = 'mailto:ntigre007@gmail.com?subject=' + encodeURIComponent('Nico Aerometrics inquiry: ' + data.get('service')) + '&body=' + encodeURIComponent(output.value);
+    status.textContent = 'Message prepared. Open it in your email app to review and send, or copy it and email ntigre007@gmail.com. Nothing has been sent yet.';
     output.focus();
   });
   document.querySelector('#copy-message').addEventListener('click', async () => {
