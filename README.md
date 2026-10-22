@@ -31,3 +31,6 @@ City photographs are downloaded Unsplash images, used as visual inspiration rath
 - assets/city-night.jpg: image source https://images.unsplash.com/photo-1519501025264-65ba15a82390
 - assets/city-waterfront.jpg: image source https://images.unsplash.com/photo-1518391846015-55a9cc003b25
 All images are stored locally and individually under 500 KB. The homepage photographs replace the previous illustrative site-plan graphic.
+
+## Layout preview
+Open layout-preview.html to review the navy design, city photographs, spacing, section order, and contact placement with placeholder text. This is a separate design-review page; index.html remains the business homepage. Preview section links scroll within the same page.

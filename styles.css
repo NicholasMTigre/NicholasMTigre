@@ -73,3 +73,14 @@ input::placeholder,textarea::placeholder { color:#adc0d7; }
 .contact-bottom { flex-direction:column; }
 }
 @media(prefers-reduced-motion:no-preference) { html { scroll-behavior:smooth; } }
+
+/* Design-review preview only. */
+.preview-banner {
+  padding: 13px 5%;
+  background: #14334e;
+  border-bottom: 1px solid #3b6c8b;
+  color: #d9f3ff;
+  font: 11px/1.8 Consolas, monospace;
+  letter-spacing: .04em;
+}
+.preview-banner a { display: inline-block; margin-left: 16px; }
