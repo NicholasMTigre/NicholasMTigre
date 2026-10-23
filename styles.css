@@ -84,3 +84,26 @@ input::placeholder,textarea::placeholder { color:#adc0d7; }
   letter-spacing: .04em;
 }
 .preview-banner a { display: inline-block; margin-left: 16px; }
+
+/* Approved single-line wordmark; crop the image's presentation margins in CSS. */
+.brand-logo {
+  display: block;
+  width: 350px;
+  max-width: 100%;
+  flex-shrink: 0;
+  line-height: 0;
+}
+.brand-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 12 / 1;
+  object-fit: cover;
+  object-position: center;
+}
+.site-header, .site-footer { background: #071426; }
+.site-footer .brand-logo { width: 300px; }
+@media (max-width: 700px) {
+  .header-inner > .brand-logo { width: min(350px, calc(100% - 95px)); }
+  .site-footer .brand-logo { width: min(300px, 100%); }
+}
