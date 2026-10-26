@@ -20,7 +20,7 @@ if (menuButton && navigation) {
   navigation.addEventListener('click', (event) => {
     if (event.target.closest('a')) setMenu(false);
   });
-  const mobileScreen = window.matchMedia('(max-width: 700px)');
+  const mobileScreen = window.matchMedia('(max-width: 900px)');
   mobileScreen.addEventListener('change', () => setMenu(false));
 }
 const inquiryForm = document.querySelector('#inquiry-form');

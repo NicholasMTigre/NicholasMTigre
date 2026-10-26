@@ -12,7 +12,7 @@
 ## Design and implementation
 - Plain HTML, one external styles.css, and script.js only. No frameworks, npm, backend, or secrets.
 - Use relative file paths and support opening index.html directly and GitHub Pages.
-- Style: high-tech navy backgrounds (#071426), near-white text, cyan accents, subtle grid details, large city photography, and generous spacing. The homepage is a long scrolling experience ending with the public contact email. Use Osprey Perspectives as structural inspiration, without copying their content or images.
+- Updated style (2026-10-26): navy backgrounds (#071426), warm ivory text and copper accents; no light-blue interface accents. Larger readable body/navigation text, editorial serif headings, residential photography, and a compact three-section homepage (hero, packages, contact). Use Osprey Perspectives as structural inspiration, without copying their content or images.
 - Consistent navigation on all five pages, one h1 per page, semantic HTML, visible keyboard focus, descriptive titles, and responsive layouts.
 - Mobile menu must use a button with accurate aria-expanded and support Escape. Navigation remains available without JavaScript.
 - No invented contact information, phone number, or home address. Use the approved public inquiry email ntigre007@gmail.com. The inquiry tool prepares an encoded mailto link and a copyable message; visitors review and send through their own email app. Never claim automatic delivery.

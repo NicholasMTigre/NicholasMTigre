@@ -40,3 +40,6 @@ Residential stock imagery replaces city imagery on the homepage and illustrates 
 - assets/house-exterior.jpg: https://images.unsplash.com/photo-1600596542815-ffad4c1539a9
 - assets/home-interior.jpg: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
 Both files were visually inspected and are under 500 KB. Home tour route, every-room access, filming method, and optional extras are agreed in the quote.
+
+## Compact visual direction (2026-10-26)
+Current design uses navy, warm ivory and copper, editorial serif headings, larger text, and a three-section homepage. Detailed owner/process content stays on dedicated pages. This supersedes the earlier cyan, long-scroll direction.

@@ -43,3 +43,9 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass: downloaded house exterior and interior images visually inspected; both under 500 KB. Stock labels and descriptive alt text included.
 - Pass: git diff --check.
 - Pending: actual desktop/mobile rendering, keyboard/menu, native form validation, clipboard, and email-app behavior. Prior Computer Use attempt stopped because Chrome URL could not be verified. No browser or deployment result is claimed for this update.
+
+## Compact copper redesign (2026-10-26)
+- Pass: five pages retain valid local links and anchors, balanced content containers, one h1 and active navigation marker.
+- Pass: CSS braces balanced; script parses. Menu CSS and JS share the 900px breakpoint.
+- Homepage reduced from seven sections to three; body text 18–19px, navigation 17–18px on desktop. Copper/ivory interface replaces cyan accents.
+- Browser rendering, mobile overflow, keyboard/menu interactions and visual contrast remain unverified in this update.
