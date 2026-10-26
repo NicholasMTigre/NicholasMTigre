@@ -49,3 +49,8 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass: CSS braces balanced; script parses. Menu CSS and JS share the 900px breakpoint.
 - Homepage reduced from seven sections to three; body text 18–19px, navigation 17–18px on desktop. Copper/ivory interface replaces cyan accents.
 - Browser rendering, mobile overflow, keyboard/menu interactions and visual contrast remain unverified in this update.
+
+## Direct copy and compact inquiry (2026-10-26)
+- Pass: five pages checked for local links/anchors, balanced content containers, and one h1. Seven inquiry fields retain their labels and controls in individual layout groups.
+- Removed inquiry sidebar; shortened headings and reduced hero/section padding. Form uses two columns on wider screens and one below 600px.
+- Browser visual and interaction checks remain unverified.

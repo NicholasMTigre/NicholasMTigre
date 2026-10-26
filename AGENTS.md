@@ -25,3 +25,5 @@
 - Use revert commits, never force pushes or destructive resets.
 - Check local links and HTML structure. Browser-test mobile/desktop, keyboard navigation, menu, and inquiry validation when available.
 - Never claim deployment, browser, Lighthouse, or live tests passed unless actually run.
+
+- Copy preference (2026-10-26): use direct descriptive headings (Services & pricing, Request a quote, Scheduling). Avoid slogans and marketing metaphors. Keep spacing compact; inquiry form has no introductory sidebar.
