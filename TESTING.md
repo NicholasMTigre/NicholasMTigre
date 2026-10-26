@@ -54,3 +54,11 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass: five pages checked for local links/anchors, balanced content containers, and one h1. Seven inquiry fields retain their labels and controls in individual layout groups.
 - Removed inquiry sidebar; shortened headings and reduced hero/section padding. Form uses two columns on wider screens and one below 600px.
 - Browser visual and interaction checks remain unverified.
+
+## Interactive homepage, phone layout and icons (2026-10-26)
+- Pass: all five site pages plus layout preview have balanced content containers, one h1, unique IDs, valid local references/anchors, and favicon links. No vertical social-cut add-on remains in page content.
+- Pass: JS parses; simulated DOM exercises all four package selections, all three comparison views, and carryover of the two remaining add-ons into inquiry URLs. Earlier simulated inquiry checks covered prefill, invalid-form guard, and encoded email draft.
+- Pass: CSS braces balanced, responsive grids for 700px/600px/380px, 44px minimum menu/comparison/FAQ targets, and 18px form inputs. These source checks do not establish rendered phone behavior.
+- Pass: 48px browser icon and 180px touch icon derived from approved drone logo and visually inspected.
+- NAR 2026 source supports 48% technology adoption; no quantitative sales-lift claim is made. Illustrations and photos are labeled.
+- Browser interaction/phone rendering verification remains pending.

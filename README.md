@@ -43,3 +43,8 @@ Both files were visually inspected and are under 500 KB. Home tour route, every-
 
 ## Compact visual direction (2026-10-26)
 Current design uses navy, warm ivory and copper, editorial serif headings, larger text, and a three-section homepage. Detailed owner/process content stays on dedicated pages. This supersedes the earlier cyan, long-scroll direction.
+
+## Interactive media selection
+The homepage now uses image-based package buttons, optional agent branding/extra-photo requests, and three conceptual views comparing ground photos, aerial context, and a home-tour route. Choices prefill the email inquiry using URL parameters. Without JavaScript, package and comparison panels remain readable and inquiry uses direct email.
+The 48% graphic represents NAR’s 2026 reported use of drone photo/video, not sales performance: https://www.nar.realtor/newsroom/realtors-adopt-technology-to-save-time-and-improve-the-client-experience-nar-report-finds
+Browser and Apple touch icons use the drone symbol from the approved logo.

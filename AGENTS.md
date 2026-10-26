@@ -27,3 +27,5 @@
 - Never claim deployment, browser, Lighthouse, or live tests passed unless actually run.
 
 - Copy preference (2026-10-26): use direct descriptive headings (Services & pricing, Request a quote, Scheduling). Avoid slogans and marketing metaphors. Keep spacing compact; inquiry form has no introductory sidebar.
+
+- Latest homepage: visual package selection, two optional add-ons (agent branding, extra edited photos), conceptual ground/aerial/tour comparison, compact FAQs and email contact. Do not restore the vertical social-cut add-on. Keep sourced adoption figures distinct from sales-performance claims.

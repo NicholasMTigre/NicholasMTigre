@@ -48,3 +48,49 @@ if (inquiryForm) {
     }
   });
 }
+
+// Progressive enhancement: every package/view remains readable without JavaScript.
+const packageChoices = [...document.querySelectorAll('[data-choice]')];
+const packagePanels = [...document.querySelectorAll('[data-package]')];
+if (packageChoices.length && packagePanels.length) {
+  const choosePackage = (id) => {
+    packageChoices.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.choice === id)));
+    packagePanels.forEach((panel) => { panel.hidden = panel.dataset.package !== id; });
+  };
+  packageChoices.forEach((button) => button.addEventListener('click', () => choosePackage(button.dataset.choice)));
+  choosePackage('photos');
+  document.querySelector('.service-picker').hidden = false;
+  const addOnPicker = document.querySelector('.add-on-picker');
+  addOnPicker.hidden = false;
+  addOnPicker.addEventListener('change', () => {
+    const selected = [...addOnPicker.querySelectorAll('input:checked')].map((input) => input.value);
+    document.querySelectorAll('.package-inquiry').forEach((link) => {
+      const params = new URLSearchParams({ service: link.dataset.service });
+      if (selected.length) params.set('addons', selected.join(', '));
+      link.setAttribute('href', 'contact.html?' + params.toString());
+    });
+  });
+}
+const viewChoices = [...document.querySelectorAll('[data-view-choice]')];
+const viewPanels = [...document.querySelectorAll('[data-view]')];
+if (viewChoices.length && viewPanels.length) {
+  const chooseView = (id) => {
+    viewChoices.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.viewChoice === id)));
+    viewPanels.forEach((panel) => { panel.hidden = panel.dataset.view !== id; });
+  };
+  viewChoices.forEach((button) => button.addEventListener('click', () => chooseView(button.dataset.viewChoice)));
+  chooseView('ground');
+  document.querySelector('.view-switch').hidden = false;
+}
+if (inquiryForm) {
+  const params = new URLSearchParams(window.location.search);
+  const serviceNames = { photos: 'Aerial Photos', video: 'Aerial Video', bundle: 'Photos + Video', tour: 'Complete Home Tour' };
+  const selectedService = serviceNames[params.get('service')];
+  const serviceSelect = document.querySelector('#service');
+  if (selectedService) {
+    const option = [...serviceSelect.options].find((item) => item.textContent.startsWith(selectedService + ' —'));
+    if (option) serviceSelect.value = option.value;
+  }
+  const requestedAddOns = params.get('addons');
+  if (requestedAddOns) document.querySelector('#addons').value = requestedAddOns.slice(0, 1000);
+}
