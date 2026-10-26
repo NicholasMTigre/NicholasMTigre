@@ -4,7 +4,8 @@
 - Nicholas requested a drone business website instead of the personal portfolio. This supersedes the previous portfolio content requirements.
 - Confirmed business name: Nico Aerometrics. Owner: Nicholas Tigre. Approved public inquiry email: ntigre007@gmail.com.
 - Pages: index.html (Home), about.html (Owner), projects.html (Services), skills.html (Process), contact.html (Project inquiry).
-- Construction-focused positioning: aerial site documentation, orthomosaic mapping, stockpile reports, and design overlays. Do not invent completed work, equipment ownership, clients, credentials, insurance, prices, or guaranteed accuracy.
+- Updated direction (2026-10-26): Bergen County real estate media first. Nicholas is an NJIT freshman majoring in Construction Management. Introductory packages: photos from $95, short video from $125, bundle from $175, Complete Home Tour by custom quote (outside, every room, outside). Optional add-ons are requested and quoted. Confirm college availability and weather, especially wind/gusts. Do not claim certification or equipment ownership. Construction mapping and surveying-related work are future ambitions only.
+- Previous construction-focused positioning: aerial site documentation, orthomosaic mapping, stockpile reports, and design overlays. Do not invent completed work, equipment ownership, clients, credentials, insurance, prices, or guaranteed accuracy.
 - Clearly label illustrations and sample deliverables. Do not present them as actual client work.
 - Do not claim licensed surveying or engineering services. Confirm scope, capability, and applicable requirements before making stronger service claims.
 

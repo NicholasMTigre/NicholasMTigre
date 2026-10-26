@@ -1,20 +1,20 @@
 ﻿# Nico Aerometrics
 
-A static, construction-focused drone business website owned by Nicholas Tigre. The business name was confirmed by Nicholas.
+A static, real-estate-focused drone business website owned by Nicholas Tigre. The business name was confirmed by Nicholas.
 
 ## View locally
 Open index.html in a browser. No installation or build is required. All five pages use styles.css and script.js.
 
 ## Pages and features
 - Home: scrolling overview, city photography, services, process, owner introduction, and email contact.
-- Services: proposed mapping, volume reporting, plan overlays, and progress documentation.
+- Services: introductory exterior photos ($95), short video ($125), photo/video bundle ($175), and a Complete Home Tour by custom quote, with requested add-ons.
 - Process: scoping, planning, capture, and review.
 - Owner: Nicholas Tigre's introduction.
 - Project inquiry: browser-validated message preparation, an email-app link, and copying. Inquiries go to ntigre007@gmail.com through the email app on the device; the website itself does not send or store messages.
 - Responsive navigation with keyboard support and a no-JavaScript fallback.
 
 ## Before business launch
-Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, accuracy guarantees, or prices are claimed.
+Verify actual services, equipment, operating credentials, permissions, insurance, and any applicable professional requirements before advertising them. No client work, certifications, equipment ownership, or accuracy guarantees are claimed. Introductory package prices are displayed; final scope and pricing are confirmed before booking.
 
 ## Hosting and verification
 Repository: https://github.com/NicholasMTigre/NicholasMTigre
@@ -34,3 +34,9 @@ All images are stored locally and individually under 500 KB. The homepage photog
 
 ## Layout preview
 Open layout-preview.html to review the navy design, city photographs, spacing, section order, and contact placement with placeholder text. This is a separate design-review page; index.html remains the business homepage. Preview section links scroll within the same page.
+
+## Real estate update (2026-10-26)
+Residential stock imagery replaces city imagery on the homepage and illustrates the home tour on Services. These are different properties, not a continuous filmed tour or client work. Downloaded image sources:
+- assets/house-exterior.jpg: https://images.unsplash.com/photo-1600596542815-ffad4c1539a9
+- assets/home-interior.jpg: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
+Both files were visually inspected and are under 500 KB. Home tour route, every-room access, filming method, and optional extras are agreed in the quote.

@@ -36,3 +36,10 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass: http://nicoaerometrics.com returns HTTP 200 and Nico Aerometrics branding.
 - Pass: GitHub Pages reports built, domain nicoaerometrics.com, source main / root. Pushes to main publish automatically.
 - Pending: valid HTTPS certificate for apex and www; initial checks failed certificate validation while GitHub reported no issued certificate. HTTPS enforcement remains off pending issuance. No certificate checks were bypassed.
+
+## Real estate packages and imagery (2026-10-26)
+- Pass: all five pages checked for local links/anchors, balanced main content containers, one h1, and one current navigation marker.
+- Pass: JavaScript parses; inquiry handler exercised in an isolated simulated DOM with a home-tour selection, dates, and add-ons; prepared text and encoded email draft include the inputs. This is not browser validation.
+- Pass: downloaded house exterior and interior images visually inspected; both under 500 KB. Stock labels and descriptive alt text included.
+- Pass: git diff --check.
+- Pending: actual desktop/mobile rendering, keyboard/menu, native form validation, clipboard, and email-app behavior. Prior Computer Use attempt stopped because Chrome URL could not be verified. No browser or deployment result is claimed for this update.

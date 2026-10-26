@@ -107,3 +107,7 @@ input::placeholder,textarea::placeholder { color:#adc0d7; }
   .header-inner > .brand-logo { width: min(350px, calc(100% - 95px)); }
   .site-footer .brand-logo { width: min(300px, 100%); }
 }
+
+.package-price{font-size:30px;font-weight:700;color:var(--orange);margin-bottom:16px}.package-cards article{padding:28px 22px;background:#10233b}.package-cards + .detail{margin-top:24px}
+
+@media(min-width:701px){.package-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
