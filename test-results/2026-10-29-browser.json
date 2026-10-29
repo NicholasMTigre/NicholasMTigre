@@ -1,0 +1,569 @@
+{
+  "date": "2026-10-29",
+  "site": "https://nicoaerometrics.com/",
+  "desktop": [
+    {
+      "brokenImages": [
+        "assets/view-tour.svg"
+      ],
+      "client": 1351,
+      "current": "Home",
+      "h1": "Real estate photos\nand property videos.",
+      "nav": "block",
+      "scroll": 1351,
+      "title": "Home | Nico Aerometrics",
+      "url": "https://nicoaerometrics.com/index.html",
+      "width": 1366,
+      "imageNote": "view-tour.svg was hidden and lazy-loaded at this moment; it later loaded successfully when its panel was revealed."
+    },
+    {
+      "brokenImages": [],
+      "client": 1351,
+      "current": "Services",
+      "h1": "Services & pricing",
+      "nav": "block",
+      "scroll": 1351,
+      "title": "Services | Nico Aerometrics",
+      "url": "https://nicoaerometrics.com/projects.html",
+      "width": 1366
+    },
+    {
+      "brokenImages": [],
+      "client": 1351,
+      "current": "Process",
+      "h1": "Booking & delivery",
+      "nav": "block",
+      "scroll": 1351,
+      "title": "Process | Nico Aerometrics",
+      "url": "https://nicoaerometrics.com/skills.html",
+      "width": 1366
+    },
+    {
+      "brokenImages": [],
+      "client": 1351,
+      "current": "Owner",
+      "h1": "Nicholas Tigre",
+      "nav": "block",
+      "scroll": 1351,
+      "title": "Owner | Nico Aerometrics",
+      "url": "https://nicoaerometrics.com/about.html",
+      "width": 1366
+    },
+    {
+      "brokenImages": [],
+      "client": 1351,
+      "current": "Project inquiry",
+      "h1": "Request a quote",
+      "nav": "block",
+      "scroll": 1351,
+      "title": "Project inquiry | Nico Aerometrics",
+      "url": "https://nicoaerometrics.com/contact.html",
+      "width": 1366
+    }
+  ],
+  "navigation": [
+    {
+      "from": "Home",
+      "to": "Home",
+      "current": "Home",
+      "path": "/index.html"
+    },
+    {
+      "from": "Home",
+      "to": "Services",
+      "current": "Services",
+      "path": "/projects.html"
+    },
+    {
+      "from": "Home",
+      "to": "Process",
+      "current": "Process",
+      "path": "/skills.html"
+    },
+    {
+      "from": "Home",
+      "to": "Owner",
+      "current": "Owner",
+      "path": "/about.html"
+    },
+    {
+      "from": "Home",
+      "to": "Project inquiry",
+      "current": "Project inquiry",
+      "path": "/contact.html"
+    },
+    {
+      "footerFrom": "Home",
+      "url": "https://nicoaerometrics.com/contact.html"
+    },
+    {
+      "from": "Services",
+      "to": "Home",
+      "current": "Home",
+      "path": "/index.html"
+    },
+    {
+      "from": "Services",
+      "to": "Services",
+      "current": "Services",
+      "path": "/projects.html"
+    },
+    {
+      "from": "Services",
+      "to": "Process",
+      "current": "Process",
+      "path": "/skills.html"
+    },
+    {
+      "from": "Services",
+      "to": "Owner",
+      "current": "Owner",
+      "path": "/about.html"
+    },
+    {
+      "from": "Services",
+      "to": "Project inquiry",
+      "current": "Project inquiry",
+      "path": "/contact.html"
+    },
+    {
+      "footerFrom": "Services",
+      "url": "https://nicoaerometrics.com/index.html"
+    },
+    {
+      "from": "Process",
+      "to": "Home",
+      "current": "Home",
+      "path": "/index.html"
+    },
+    {
+      "from": "Process",
+      "to": "Services",
+      "current": "Services",
+      "path": "/projects.html"
+    },
+    {
+      "from": "Process",
+      "to": "Process",
+      "current": "Process",
+      "path": "/skills.html"
+    },
+    {
+      "from": "Process",
+      "to": "Owner",
+      "current": "Owner",
+      "path": "/about.html"
+    },
+    {
+      "from": "Process",
+      "to": "Project inquiry",
+      "current": "Project inquiry",
+      "path": "/contact.html"
+    },
+    {
+      "footerFrom": "Process",
+      "url": "https://nicoaerometrics.com/contact.html"
+    },
+    {
+      "from": "Owner",
+      "to": "Home",
+      "current": "Home",
+      "path": "/index.html"
+    },
+    {
+      "from": "Owner",
+      "to": "Services",
+      "current": "Services",
+      "path": "/projects.html"
+    },
+    {
+      "from": "Owner",
+      "to": "Process",
+      "current": "Process",
+      "path": "/skills.html"
+    },
+    {
+      "from": "Owner",
+      "to": "Owner",
+      "current": "Owner",
+      "path": "/about.html"
+    },
+    {
+      "from": "Owner",
+      "to": "Project inquiry",
+      "current": "Project inquiry",
+      "path": "/contact.html"
+    },
+    {
+      "footerFrom": "Owner",
+      "url": "https://nicoaerometrics.com/index.html"
+    },
+    {
+      "from": "Project inquiry",
+      "to": "Home",
+      "current": "Home",
+      "path": "/index.html"
+    },
+    {
+      "from": "Project inquiry",
+      "to": "Services",
+      "current": "Services",
+      "path": "/projects.html"
+    },
+    {
+      "from": "Project inquiry",
+      "to": "Process",
+      "current": "Process",
+      "path": "/skills.html"
+    },
+    {
+      "from": "Project inquiry",
+      "to": "Owner",
+      "current": "Owner",
+      "path": "/about.html"
+    },
+    {
+      "from": "Project inquiry",
+      "to": "Project inquiry",
+      "current": "Project inquiry",
+      "path": "/contact.html"
+    },
+    {
+      "footerFrom": "Project inquiry",
+      "url": "https://nicoaerometrics.com/index.html"
+    }
+  ],
+  "mobile": [
+    {
+      "client": 305,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 305,
+      "title": "Home | Nico Aerometrics",
+      "width": 320
+    },
+    {
+      "client": 305,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 305,
+      "title": "Services | Nico Aerometrics",
+      "width": 320
+    },
+    {
+      "client": 305,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 305,
+      "title": "Process | Nico Aerometrics",
+      "width": 320
+    },
+    {
+      "client": 305,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 305,
+      "title": "Owner | Nico Aerometrics",
+      "width": 320
+    },
+    {
+      "client": 305,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 305,
+      "title": "Project inquiry | Nico Aerometrics",
+      "width": 320
+    },
+    {
+      "client": 375,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 375,
+      "title": "Home | Nico Aerometrics",
+      "width": 390
+    },
+    {
+      "client": 375,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 375,
+      "title": "Services | Nico Aerometrics",
+      "width": 390
+    },
+    {
+      "client": 375,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 375,
+      "title": "Process | Nico Aerometrics",
+      "width": 390
+    },
+    {
+      "client": 375,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 375,
+      "title": "Owner | Nico Aerometrics",
+      "width": 390
+    },
+    {
+      "client": 375,
+      "menuExpanded": "false",
+      "nav": "none",
+      "overflow": [],
+      "scroll": 375,
+      "title": "Project inquiry | Nico Aerometrics",
+      "width": 390
+    }
+  ],
+  "interactions": [
+    "Menu open/close, Escape focus return and mobile-to-desktop resize passed in Chrome.",
+    "All four FAQs open and close with Space; tour illustration loads once revealed."
+  ],
+  "keyboard": [
+    {
+      "page": "Home",
+      "first": {
+        "outline": "solid",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      "skipped": "main-content",
+      "next": {
+        "outline": "solid",
+        "tag": "A",
+        "text": "See what aerial media adds ↓"
+      },
+      "previous": {
+        "tag": "A",
+        "text": "Project inquiry"
+      }
+    },
+    {
+      "page": "Services",
+      "first": {
+        "outline": "solid",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      "skipped": "main-content",
+      "next": {
+        "outline": "solid",
+        "tag": "A",
+        "text": "Ask about photos ↗"
+      },
+      "previous": {
+        "tag": "A",
+        "text": "Project inquiry"
+      }
+    },
+    {
+      "page": "Process",
+      "first": {
+        "outline": "solid",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      "skipped": "main-content",
+      "next": {
+        "outline": "solid",
+        "tag": "A",
+        "text": "Prepare an inquiry ↗"
+      },
+      "previous": {
+        "tag": "A",
+        "text": "Project inquiry"
+      }
+    },
+    {
+      "page": "Owner",
+      "first": {
+        "outline": "solid",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      "skipped": "main-content",
+      "next": {
+        "outline": "solid",
+        "tag": "A",
+        "text": "Talk about a shoot →"
+      },
+      "previous": {
+        "tag": "A",
+        "text": "Project inquiry"
+      }
+    },
+    {
+      "page": "Project inquiry",
+      "first": {
+        "outline": "solid",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      "skipped": "main-content",
+      "next": {
+        "outline": "solid",
+        "tag": "INPUT",
+        "text": ""
+      },
+      "previous": {
+        "tag": "A",
+        "text": "Project inquiry"
+      }
+    }
+  ],
+  "form": {
+    "invalidBlank": {
+      "focus": "name",
+      "invalid": [
+        {
+          "id": "name",
+          "message": "Please fill out this field."
+        },
+        {
+          "id": "email",
+          "message": ""
+        },
+        {
+          "id": "location",
+          "message": "Please fill out this field."
+        },
+        {
+          "id": "details",
+          "message": "Please fill out this field."
+        }
+      ],
+      "resultHidden": true
+    },
+    "invalidEmail": {
+      "focus": "email",
+      "message": "",
+      "resultHidden": true
+    },
+    "prepared": {
+      "focus": "message-output",
+      "mailto": "mailto:ntigre007@gmail.com?subject=Nico%20Aerometrics%20inquiry%3A%20Aerial%20Photos%20%E2%80%94%20photos%2C%20from%20%2495&body=Project%20inquiry%20for%20Nicholas%20Tigre%0A%0AName%3A%20Website%20QA%20Test%0AEmail%3A%20qa%40example.com%0AService%3A%20Aerial%20Photos%20%E2%80%94%20photos%2C%20from%20%2495%0AProperty%3A%20Bergen%20County%2C%20NJ%0APreferred%20dates%20%2F%20deadline%3A%20Flexible%20%E2%80%94%20QA%20only%0AAdd-ons%20%2F%20special%20requests%3A%20Agent%20branding%20%26%20extra%20photos%0A%0AQA%20test%20only%20%E2%80%94%20this%20message%20will%20not%20be%20sent.%20Exterior%20photos%20%26%20video%3F",
+      "shown": true,
+      "status": "Message prepared. Open it in your email app to review and send, or copy it and email ntigre007@gmail.com. Nothing has been sent yet.",
+      "text": "Project inquiry for Nicholas Tigre\n\nName: Website QA Test\nEmail: qa@example.com\nService: Aerial Photos — photos, from $95\nProperty: Bergen County, NJ\nPreferred dates / deadline: Flexible — QA only\nAdd-ons / special requests: Agent branding & extra photos\n\nQA test only — this message will not be sent. Exterior photos & video?"
+    },
+    "clipboardMatches": true
+  },
+  "home": {
+    "chosen": [
+      {
+        "selected": "photos",
+        "visiblePanels": [
+          "photos"
+        ]
+      },
+      {
+        "selected": "video",
+        "visiblePanels": [
+          "video"
+        ]
+      },
+      {
+        "selected": "bundle",
+        "visiblePanels": [
+          "bundle"
+        ]
+      },
+      {
+        "selected": "tour",
+        "visiblePanels": [
+          "tour"
+        ]
+      }
+    ],
+    "addonUrl": "contact.html?service=tour&addons=Agent+branding%2C+Extra+edited+photos"
+  },
+  "lighthouse": [
+    {
+      "page": "Home",
+      "report": "https://pagespeed.web.dev/analysis/https-nicoaerometrics-com/jk1pmepgwu?form_factor=mobile",
+      "summary": [
+        "        75  Performance ",
+        "        100  Accessibility ",
+        "        100  Best Practices ",
+        "        100  SEO ",
+        "    2/2  Agentic Browsing ",
+        "performance score is calculated",
+        "See calculator.",
+        "record a trace",
+        "improve the accessibility of your web app",
+        "manual testing",
+        "conducting an accessibility review",
+        "Core Web Vitals",
+        "Learn more about Google Search Essentials",
+        "browsable websites for AI agents"
+      ]
+    },
+    {
+      "page": "Owner",
+      "report": "https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-about-html/1kjeq27141?form_factor=mobile",
+      "scoreLines": [
+        "    - link \"75 Performance\":",
+        "    - link \"100 Accessibility\":",
+        "    - link \"100 Best Practices\":",
+        "    - link \"100 SEO\":"
+      ]
+    },
+    {
+      "page": "Services",
+      "report": "https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-projects-html/s97hidbq3n?form_factor=mobile",
+      "scoreLines": [
+        "    - link \"100 Performance\":",
+        "    - link \"100 Accessibility\":",
+        "    - link \"100 Best Practices\":",
+        "    - link \"100 SEO\":"
+      ]
+    },
+    {
+      "page": "Process",
+      "report": "https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-skills-html/vyg6zh3hls?form_factor=mobile",
+      "scoreLines": [
+        "    - link \"88 Performance\":",
+        "    - link \"100 Accessibility\":",
+        "    - link \"100 Best Practices\":",
+        "    - link \"100 SEO\":"
+      ]
+    },
+    {
+      "page": "Project inquiry",
+      "report": "https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-contact-html/udn2zrf3w8?form_factor=mobile",
+      "scoreLines": [
+        "    - link \"64 Performance\":",
+        "    - link \"100 Accessibility\":",
+        "    - link \"100 Best Practices\":",
+        "    - link \"100 SEO\":"
+      ]
+    }
+  ],
+  "console": [],
+  "phoneCarryover": {
+    "width": 390,
+    "service": "Complete Home Tour — custom quote",
+    "addons": "Agent branding",
+    "client": 375,
+    "scroll": 375
+  },
+  "localFile": {
+    "status": "blocked",
+    "reason": "Browser URL policy allows HTTP/HTTPS only; file navigation was not performed and no workaround was attempted."
+  },
+  "limits": [
+    "No-JavaScript reload not performed: no script-execution toggle in the connected browser API; native window capture/geometry did not reliably target Chrome.",
+    "Real clipboard-permission denial not forced; simulated fallback passed.",
+    "External email app was not launched; mailto recipient and encoded content were inspected."
+  ]
+}
