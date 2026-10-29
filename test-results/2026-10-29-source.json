@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-29",
+  "commit": "4703d6e",
+  "source": [
+    {
+      "file": "index.html",
+      "errors": [],
+      "imageCount": 9,
+      "script": true,
+      "noJsNav": true
+    },
+    {
+      "file": "about.html",
+      "errors": [],
+      "imageCount": 2,
+      "script": true,
+      "noJsNav": true
+    },
+    {
+      "file": "projects.html",
+      "errors": [],
+      "imageCount": 4,
+      "script": true,
+      "noJsNav": true
+    },
+    {
+      "file": "skills.html",
+      "errors": [],
+      "imageCount": 2,
+      "script": true,
+      "noJsNav": true
+    },
+    {
+      "file": "contact.html",
+      "errors": [],
+      "imageCount": 2,
+      "script": true,
+      "noJsNav": true
+    }
+  ],
+  "logic": [
+    "JavaScript parses"
+  ],
+  "limitations": [
+    "Simulated DOM checks are not browser checks."
+  ],
+  "assets": [
+    "favicon.ico",
+    "assets/favicon-48.png",
+    "assets/apple-touch-icon.png",
+    "styles.css",
+    "script.js",
+    "index.html",
+    "assets/nico-aerometrics-logo.png",
+    "projects.html",
+    "skills.html",
+    "about.html",
+    "contact.html",
+    "assets/house-exterior.jpg",
+    "assets/home-interior.jpg",
+    "assets/view-ground.svg",
+    "assets/view-aerial.svg",
+    "assets/view-tour.svg"
+  ],
+  "css": {
+    "balancedBraces": true,
+    "focusRules": true,
+    "reducedMotion": true,
+    "mobileMenu": true,
+    "noJsRule": true,
+    "noCyanAccent": true
+  },
+  "noJs": {
+    "navsVisibleByDefault": true,
+    "hiddenMenuOnlyAfterEnhancement": true,
+    "packagePanelsVisible": true,
+    "comparisonPanelsVisible": true,
+    "inquiryDirectEmail": true
+  },
+  "assetSizes": {
+    "assets/nico-aerometrics-logo.png": 1196540,
+    "assets/house-exterior.jpg": 331319,
+    "assets/home-interior.jpg": 208019
+  }
+}

@@ -1,0 +1,124 @@
+﻿[
+    {
+        "Path":  "index.html",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  12043,
+        "ContentType":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "about.html",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  2846,
+        "ContentType":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "projects.html",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  6495,
+        "ContentType":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "skills.html",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  3142,
+        "ContentType":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "contact.html",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  4340,
+        "ContentType":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "styles.css",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  18241,
+        "ContentType":  "text/css; charset=utf-8"
+    },
+    {
+        "Path":  "script.js",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  5156,
+        "ContentType":  "application/javascript; charset=utf-8"
+    },
+    {
+        "Path":  "favicon.ico",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  3561,
+        "ContentType":  "image/vnd.microsoft.icon"
+    },
+    {
+        "Path":  "assets/favicon-48.png",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  3539,
+        "ContentType":  "image/png"
+    },
+    {
+        "Path":  "assets/apple-touch-icon.png",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  36888,
+        "ContentType":  "image/png"
+    },
+    {
+        "Path":  "assets/nico-aerometrics-logo.png",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  1196540,
+        "ContentType":  "image/png"
+    },
+    {
+        "Path":  "assets/house-exterior.jpg",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  331319,
+        "ContentType":  "image/jpeg"
+    },
+    {
+        "Path":  "assets/home-interior.jpg",
+        "Status":  200,
+        "MatchesLocal":  null,
+        "Bytes":  208019,
+        "ContentType":  "image/jpeg"
+    },
+    {
+        "Path":  "assets/view-ground.svg",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  1029,
+        "ContentType":  "image/svg+xml"
+    },
+    {
+        "Path":  "assets/view-aerial.svg",
+        "Status":  200,
+        "MatchesLocal":  true,
+        "Bytes":  1129,
+        "ContentType":  "image/svg+xml"
+    },
+    {
+        "Path":  "assets/view-tour.svg",
+        "Status":  200,
+        "MatchesLocal":  false,
+        "Bytes":  1236,
+        "ContentType":  "image/svg+xml"
+    },
+    {
+        "Path":  "http://nicoaerometrics.com",
+        "Status":  200,
+        "FinalUrl":  "https://nicoaerometrics.com/"
+    },
+    {
+        "Path":  "https://www.nicoaerometrics.com",
+        "Status":  200,
+        "FinalUrl":  "https://nicoaerometrics.com/"
+    }
+]

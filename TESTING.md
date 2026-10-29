@@ -1,26 +1,26 @@
 ﻿# Website test plan
 
-Source checks were run locally on 2026-10-22. Browser checks and live-site checks have not been run. A source Pass does not establish visual or interactive behavior.
+Latest test run: **2026-10-29**, against local commit `4703d6e` and **https://nicoaerometrics.com/**. Source, simulated interaction, and live HTTP checks were completed. Browser rendering/interaction and Lighthouse checks remain blocked by browser-control access. A source or simulated Pass does not establish browser behavior. Earlier entries below are historical.
 
 | ID | Testing | Steps | Expected | Actual result |
 | --- | --- | --- | --- | --- |
-| T1 | Local file targets | Inspect href/src on all five pages and check files exist | All local references resolve | Pass (source check) |
-| T2 | Page headings | Count h1 on each page | Exactly one per page | Pass (source check) |
-| T3 | Active navigation | Inspect aria-current on each page | Exactly one current page marker | Pass (source check) |
-| T4 | Shared CSS | Inspect every page for stylesheet and embedded styles | Shared external stylesheet, no inline or embedded styles | Pass (source check) |
-| T5 | Navigation in browser | On each page click every navigation and footer link, locally and live | Correct destination and current page marker | Not run |
-| T6 | Phone layouts | View all five pages at 320px and 390px | Readable content, no horizontal overflow | Not run |
-| T7 | Laptop layouts | View all five pages at 1366px | Readable layout and visible navigation | Not run |
-| T8 | Mobile menu | At phone width use Menu, Close menu, then Escape; resize to desktop | Expanded state matches visibility; Escape returns focus; desktop links remain visible | Not run |
-| T9 | No JavaScript | Disable JS and reload every page | Navigation stays available; inquiry explains its limitation | Not run |
-| T10 | Keyboard | On every page use Tab, Shift+Tab, Enter and skip link | Visible focus, logical order, main content reachable | Not run |
-| T11 | Invalid inquiry | Submit blank fields, then an invalid email | Browser blocks preparation and identifies invalid fields | Not run |
-| T12 | Valid inquiry | Complete all fields and prepare | Correct message appears; no transmission claimed | Not run |
-| T13 | Copy and fallback | Copy prepared message; repeat with clipboard permission unavailable | Clipboard works or selected text can be copied manually; honest status | Not run |
-| T14 | Accessibility | Run Lighthouse on each live page | Accessibility score at least 90 per page | Not run |
-| T15 | Console | Open every page and operate menu and inquiry | No JavaScript errors | Not run |
-| T17 | Email inquiry | Prepare a valid inquiry and open the email link; also test direct email without JS | Recipient is ntigre007@gmail.com; draft has correct subject and details; nothing sends automatically | Not run |
-| T16 | Graphic accessibility | Inspect home photography with accessibility tools | Descriptive alt text; stock imagery not represented as client work | Not run |
+| T1 | Local file targets | Inspect href/src on all five pages and check files exist | All local references resolve | Pass — 2026-10-29 source: all five pages’ local targets and anchors resolve. |
+| T2 | Page headings | Count h1 on each page | Exactly one per page | Pass — 2026-10-29 source: exactly one h1 per page. |
+| T3 | Active navigation | Inspect aria-current on each page | Exactly one current page marker | Pass — 2026-10-29 source: consistent five-link navigation, one current marker per page. |
+| T4 | Shared CSS | Inspect every page for stylesheet and embedded styles | Shared external stylesheet, no inline or embedded styles | Pass — 2026-10-29 source: one shared styles.css; no inline/embedded styles. |
+| T5 | Navigation in browser | On each page click every navigation and footer link, locally and live | Correct destination and current page marker | Partial — all five live destinations return 200 and match local text; actual browser clicks not run. |
+| T6 | Phone layouts | View all five pages at 320px and 390px | Readable content, no horizontal overflow | Blocked — no rendered 320px/390px browser test completed. Responsive CSS inspection is not a layout pass. |
+| T7 | Laptop layouts | View all five pages at 1366px | Readable layout and visible navigation | Blocked — no rendered 1366px browser test completed. |
+| T8 | Mobile menu | At phone width use Menu, Close menu, then Escape; resize to desktop | Expanded state matches visibility; Escape returns focus; desktop links remain visible | Partial — simulated DOM passed open/close, Escape focus return, link-close and resize reset. Browser visibility/resize not tested. |
+| T9 | No JavaScript | Disable JS and reload every page | Navigation stays available; inquiry explains its limitation | Partial — source fallback checks passed on all five pages; navigation and home panels available without enhancement, inquiry has direct-email noscript. Browser JS-disabled reload not run. |
+| T10 | Keyboard | On every page use Tab, Shift+Tab, Enter and skip link | Visible focus, logical order, main content reachable | Partial — focus-visible rules, skip target, labels and native controls present. Actual Tab/Shift+Tab/Enter not run. |
+| T11 | Invalid inquiry | Submit blank fields, then an invalid email | Browser blocks preparation and identifies invalid fields | Partial — simulated reportValidity false prevents preparation. Native blank/invalid-email browser UI not tested. |
+| T12 | Valid inquiry | Complete all fields and prepare | Correct message appears; no transmission claimed | Partial — simulated valid form prepares all fields and honest status, focuses output. Browser behavior not tested. |
+| T13 | Copy and fallback | Copy prepared message; repeat with clipboard permission unavailable | Clipboard works or selected text can be copied manually; honest status | Partial — simulated clipboard success and rejection fallback passed. Device clipboard/selection not tested. |
+| T14 | Accessibility | Run Lighthouse on each live page | Accessibility score at least 90 per page | Blocked — Lighthouse not run; no accessibility score claimed. |
+| T15 | Console | Open every page and operate menu and inquiry | No JavaScript errors | Partial — JS parses and exercised simulated paths produced no errors. Browser console not inspected. |
+| T17 | Email inquiry | Prepare a valid inquiry and open the email link; also test direct email without JS | Recipient is ntigre007@gmail.com; draft has correct subject and details; nothing sends automatically | Partial — simulated recipient, subject/body encoding and special-character round trip passed; direct mailto present. Email app not opened and no message sent. |
+| T16 | Graphic accessibility | Inspect home photography with accessibility tools | Descriptive alt text; stock imagery not represented as client work | Partial — image alt attributes and stock/concept labels present in source; browser accessibility tools not run. |
 
 Record actual live URL, browser, date, failures, fixes, and retests when browser testing is completed. Public inquiry email: ntigre007@gmail.com. Email delivery uses the configured email app on the device and must be verified manually.
 
@@ -62,3 +62,31 @@ Record actual live URL, browser, date, failures, fixes, and retests when browser
 - Pass: 48px browser icon and 180px touch icon derived from approved drone logo and visually inspected.
 - NAR 2026 source supports 48% technology adoption; no quantitative sales-lift claim is made. Illustrations and photos are labeled.
 - Browser interaction/phone rendering verification remains pending.
+
+## Test run — 2026-10-29
+
+Scope: current local checkout at `4703d6e` and the public site at https://nicoaerometrics.com/. No website content, hosting settings, or customer data were changed.
+
+### Completed
+
+- All five pages pass the source checks for local references and fragment targets, one h1, unique IDs, balanced checked content containers, descriptive titles/language, current navigation and shared external CSS. These checks are not a full HTML validator.
+- Form inputs/selects/textareas have associated labels. All images have alt attributes; decorative package images have empty alt and buttons have text labels. Stock imagery and conceptual comparison illustrations are labeled.
+- All five pages and all 11 linked shared/media assets return HTTPS 200 with appropriate content types. All text files match the checkout after normalizing line endings; binary images/icons and SVGs match exactly. The first response-text check showed an apparent SVG mismatch because PowerShell decoded an SVG without a charset differently; the subsequent UTF-8/raw-byte check confirms it matches.
+- http://nicoaerometrics.com and https://www.nicoaerometrics.com both resolve to https://nicoaerometrics.com/ with HTTP 200 and normal certificate validation. This resolves the old certificate-verification pending item for this run; no hosting settings were changed.
+- Node VM with a simulated DOM passed menu open/close, Escape focus return, link-close, breakpoint-change reset; all four package choices and three comparison views; selected/cleared add-on carryover; inquiry URL prefill; invalid-form guard; valid-message preparation; encoding of ampersands, question marks, hashes, plus signs and newlines; clipboard success and rejected-permission fallback. No emails were sent. These are not native browser tests.
+- Source no-JavaScript fallback inspection passed: navigation is visible by default, package/comparison articles remain readable, and the inquiry exposes direct email.
+
+### Unresolved browser checks
+
+Actual 320px/390px/1366px rendering, overflow, photo cropping, keyboard traversal, native validation prompts, real clipboard behavior, console messages, Lighthouse, and email-app handoff remain unverified. The browser-control attempt on 2026-10-29 was stopped by its URL-confidence enforcement before a browser test could run. Do not treat the simulated checks as substitutes for these tests.
+
+### Observation
+
+The shared logo PNG is 1,196,540 bytes (about 1.14 MiB), while the exterior/interior photos are 331,319 and 208,019 bytes. A smaller web logo could reduce the first-load transfer on phones. This is a payload-size observation, not a measured performance failure. No unverified redesign or optimization was applied.
+
+### Evidence
+
+- [Source results](test-results/2026-10-29-source.json)
+- [Simulated interaction results](test-results/2026-10-29-interactions.json)
+- [Live responses and redirects](test-results/2026-10-29-live.json)
+- [Final live content/byte comparisons](test-results/2026-10-29-live-content.json)

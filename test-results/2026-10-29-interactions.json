@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-29",
+  "environment": "Node VM with simulated DOM; not a browser",
+  "results": [
+    "T8 simulated DOM: menu open/close, Escape focus, navigation-close, breakpoint-change reset passed",
+    "T11–T13/T17 simulated DOM: invalid guard, query prefill, all fields, special-character encoding, recipient, clipboard success and denied fallback passed",
+    "Homepage simulated DOM: all package and comparison selections, add-on selection/clearing passed"
+  ]
+}

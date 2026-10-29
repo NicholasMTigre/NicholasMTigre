@@ -1,0 +1,98 @@
+﻿[
+    {
+        "Path":  "index.html",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "about.html",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "projects.html",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "skills.html",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "contact.html",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "styles.css",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "script.js",
+        "Status":  200,
+        "ExactBytes":  false,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "favicon.ico",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/favicon-48.png",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/apple-touch-icon.png",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/nico-aerometrics-logo.png",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/house-exterior.jpg",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/home-interior.jpg",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  null
+    },
+    {
+        "Path":  "assets/view-ground.svg",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "assets/view-aerial.svg",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  true
+    },
+    {
+        "Path":  "assets/view-tour.svg",
+        "Status":  200,
+        "ExactBytes":  true,
+        "TextMatchesIgnoringLineEndings":  true
+    }
+]
