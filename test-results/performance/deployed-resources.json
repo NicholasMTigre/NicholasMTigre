@@ -1,0 +1,56 @@
+﻿[
+    {
+        "Path":  "index.html",
+        "Status":  200,
+        "Bytes":  13635,
+        "Type":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "about.html",
+        "Status":  200,
+        "Bytes":  3297,
+        "Type":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "projects.html",
+        "Status":  200,
+        "Bytes":  7477,
+        "Type":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "skills.html",
+        "Status":  200,
+        "Bytes":  3593,
+        "Type":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "contact.html",
+        "Status":  200,
+        "Bytes":  4791,
+        "Type":  "text/html; charset=utf-8"
+    },
+    {
+        "Path":  "assets/nico-logo-744.webp",
+        "Status":  200,
+        "Bytes":  37168,
+        "Type":  "image/webp"
+    },
+    {
+        "Path":  "assets/nico-logo-1488.webp",
+        "Status":  200,
+        "Bytes":  121718,
+        "Type":  "image/webp"
+    },
+    {
+        "Path":  "assets/house-exterior-480.webp",
+        "Status":  200,
+        "Bytes":  45038,
+        "Type":  "image/webp"
+    },
+    {
+        "Path":  "assets/home-interior-480.webp",
+        "Status":  200,
+        "Bytes":  58016,
+        "Type":  "image/webp"
+    }
+]

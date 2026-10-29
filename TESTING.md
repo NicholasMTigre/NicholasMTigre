@@ -1,6 +1,6 @@
 ﻿# Website test plan
 
-Latest test run: **2026-10-29**, against website commit `4703d6e` and **https://nicoaerometrics.com/**. Chrome extension browser access now works. Live desktop/mobile layouts, navigation, menu, sampled keyboard traversal, native inquiry validation/preparation, actual clipboard copying, and all five Lighthouse accessibility audits were completed. Source and simulated checks are distinguished from browser results below. Earlier entries are historical.
+Latest test run: **2026-10-29**. The performance-only website revision `acff80b` was published and re-audited; earlier browser checks used website commit `4703d6e` and **https://nicoaerometrics.com/**. Chrome extension browser access now works. Live desktop/mobile layouts, navigation, menu, sampled keyboard traversal, native inquiry validation/preparation, actual clipboard copying, and all five Lighthouse accessibility audits were completed. Source and simulated checks are distinguished from browser results below. Earlier entries are historical.
 
 | ID | Testing | Steps | Expected | Actual result |
 | --- | --- | --- | --- | --- |
@@ -145,4 +145,18 @@ Temporary viewport overrides were reset after testing. Tests used synthetic QA d
 - Pass: optimized local HTTP preview exercises four package choices, three comparison choices, add-on carryover, required-field blocking, valid inquiry preparation, menu Escape/focus, with no captured warnings/errors. No emails sent.
 - Pass: all six HTML files retain valid local targets/srcset candidates and checked container nesting; script parses.
 - 744px logo derivative: 37,168 bytes versus 1,196,540 source bytes (96.9% smaller); 480px exterior/interior derivatives: 45,038 and 58,016 bytes. Actual resource choice depends on viewport and pixel density. Originals preserved.
-- Live Lighthouse retest pending publication of this optimization.
+- Pass: optimization published as `acff80b`; all five live pages retested with mobile Lighthouse 13.5.0. Performance, Accessibility, Best Practices and SEO each score 100 on every page. These are laboratory results and can vary by run.
+
+### Published performance results
+
+| Page | Before performance | After performance | Accessibility | LCP after | Report |
+| --- | ---: | ---: | ---: | --- | --- |
+| Home | 75 | 100 | 100 | 1.5 s | [Report](https://pagespeed.web.dev/analysis/https-nicoaerometrics-com/8lddu5c3gi?form_factor=mobile) |
+| Owner | 75 | 100 | 100 | 1.1 s | [Report](https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-about-html/n5b36ctc1z?form_factor=mobile) |
+| Services | 100 | 100 | 100 | 1.1 s | [Report](https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-projects-html/pakk17uxrk?form_factor=mobile) |
+| Process | 88 | 100 | 100 | 1.1 s | [Report](https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-skills-html/7s7d2uzrs4?form_factor=mobile) |
+| Project inquiry | 64 | 100 | 100 | 1.1 s | [Report](https://pagespeed.web.dev/analysis/https-nicoaerometrics-com-contact-html/qicczisv2i?form_factor=mobile) |
+
+All five after runs also scored 100 for Best Practices and SEO. Performance is a single-run lab score, not a real-user speed guarantee. No hosting settings or cache policies were changed. Further score-chasing changes were unnecessary after all five pages reached 100.
+
+Evidence: [full after snapshots and scores](test-results/performance/lighthouse-after.json), [Lighthouse screenshot](test-results/performance/lighthouse-after-home.jpg), [asset savings](test-results/performance/asset-savings.json), [regression checks](test-results/performance/regression.json), [before layout](test-results/performance/before-layout.json), [after layout](test-results/performance/after-layout.json), [live asset responses](test-results/performance/deployed-resources.json).
