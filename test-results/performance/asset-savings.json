@@ -1,0 +1,20 @@
+[
+  {
+    "name": "logo",
+    "before": 1196540,
+    "after": 37168,
+    "reductionPercent": 96.9
+  },
+  {
+    "name": "exterior thumbnail",
+    "before": 331319,
+    "after": 45038,
+    "reductionPercent": 86.4
+  },
+  {
+    "name": "interior thumbnail",
+    "before": 208019,
+    "after": 58016,
+    "reductionPercent": 72.1
+  }
+]

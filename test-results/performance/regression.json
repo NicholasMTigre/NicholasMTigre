@@ -1,0 +1,64 @@
+{
+  "checks": [
+    {
+      "panels": [
+        "photos"
+      ],
+      "selected": "photos"
+    },
+    {
+      "panels": [
+        "video"
+      ],
+      "selected": "video"
+    },
+    {
+      "panels": [
+        "bundle"
+      ],
+      "selected": "bundle"
+    },
+    {
+      "panels": [
+        "tour"
+      ],
+      "selected": "tour"
+    },
+    {
+      "shown": [
+        "ground"
+      ],
+      "view": "ground"
+    },
+    {
+      "shown": [
+        "aerial"
+      ],
+      "view": "aerial"
+    },
+    {
+      "shown": [
+        "tour"
+      ],
+      "view": "tour"
+    },
+    {
+      "invalidFocused": "name",
+      "resultHidden": true
+    },
+    {
+      "addons": "Agent branding",
+      "prepared": true,
+      "service": "Complete Home Tour — custom quote",
+      "status": "Message prepared. Open it in your email app to review and send, or copy it and email ntigre007@gmail.com. Nothing has been sent yet."
+    },
+    {
+      "focus": "menu-toggle",
+      "menu": "false",
+      "nav": "none"
+    }
+  ],
+  "logs": [],
+  "layoutComparisons": 10,
+  "layoutDifferences": []
+}

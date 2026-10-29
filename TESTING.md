@@ -136,3 +136,13 @@ The homepage report flags image delivery and caching opportunities and reports L
 - [Inquiry Lighthouse screenshot](test-results/lighthouse-project-inquiry.jpg)
 
 Temporary viewport overrides were reset after testing. Tests used synthetic QA details; no inquiry was emailed and no production website or hosting changes were made.
+
+## Performance optimization — 2026-10-29
+
+- Responsive WebP derivatives of the existing logo/photos added, with original PNG/JPEG fallbacks retained. Header logo loads at high priority; footer logo remains lazy. No image subjects, content, colors or final layout rules changed.
+- Enhancement state now starts in the external head script before body paint; controls bind on DOMContentLoaded. Initial enhanced-layout rules prevent navigation, package and comparison panels shifting into place. No inline scripts/styles or new runtime dependencies.
+- Pass: all five optimized pages compared against the prior live site at 390px and 1366px (10 cases): rendered text and measured header/main/footer/headings/package/form/logo boxes match exactly. See performance/before-layout.json and after-layout.json.
+- Pass: optimized local HTTP preview exercises four package choices, three comparison choices, add-on carryover, required-field blocking, valid inquiry preparation, menu Escape/focus, with no captured warnings/errors. No emails sent.
+- Pass: all six HTML files retain valid local targets/srcset candidates and checked container nesting; script parses.
+- 744px logo derivative: 37,168 bytes versus 1,196,540 source bytes (96.9% smaller); 480px exterior/interior derivatives: 45,038 and 58,016 bytes. Actual resource choice depends on viewport and pixel density. Originals preserved.
+- Live Lighthouse retest pending publication of this optimization.

@@ -1,3 +1,6 @@
+// Establish enhancement state before the body paints, then bind controls after parsing.
+document.documentElement.classList.add('js');
+document.addEventListener('DOMContentLoaded', () => {
 ﻿const menuButton = document.querySelector('#menu-toggle');
 const navigation = document.querySelector('#main-nav');
 if (menuButton && navigation) {
@@ -59,6 +62,7 @@ if (packageChoices.length && packagePanels.length) {
   };
   packageChoices.forEach((button) => button.addEventListener('click', () => choosePackage(button.dataset.choice)));
   choosePackage('photos');
+  document.querySelector('.package-panels').classList.add('is-ready');
   document.querySelector('.service-picker').hidden = false;
   const addOnPicker = document.querySelector('.add-on-picker');
   addOnPicker.hidden = false;
@@ -80,6 +84,7 @@ if (viewChoices.length && viewPanels.length) {
   };
   viewChoices.forEach((button) => button.addEventListener('click', () => chooseView(button.dataset.viewChoice)));
   chooseView('ground');
+  document.querySelector('.comparison-panels').classList.add('is-ready');
   document.querySelector('.view-switch').hidden = false;
 }
 if (inquiryForm) {
@@ -94,3 +99,5 @@ if (inquiryForm) {
   const requestedAddOns = params.get('addons');
   if (requestedAddOns) document.querySelector('#addons').value = requestedAddOns.slice(0, 1000);
 }
+
+});

@@ -48,3 +48,7 @@ Current design uses navy, warm ivory and copper, editorial serif headings, large
 The homepage now uses image-based package buttons, optional agent branding/extra-photo requests, and three conceptual views comparing ground photos, aerial context, and a home-tour route. Choices prefill the email inquiry using URL parameters. Without JavaScript, package and comparison panels remain readable and inquiry uses direct email.
 The 48% graphic represents NAR’s 2026 reported use of drone photo/video, not sales performance: https://www.nar.realtor/newsroom/realtors-adopt-technology-to-save-time-and-improve-the-client-experience-nar-report-finds
 Browser and Apple touch icons use the drone symbol from the approved logo.
+
+## Image delivery and startup performance
+The original logo and residential photos remain as fallbacks and source assets. Responsive WebP derivatives are delivered through picture/source markup. The logo derivative crops only the presentation margins already hidden by the existing CSS; the final box and crop remain the same. Photo derivatives retain the same subjects and layout.
+script.js runs in the head to establish the js class before first paint, then binds interactions on DOMContentLoaded. CSS reserves the final enhanced state so startup does not shift navigation or media panels. Without JavaScript, ordinary navigation and readable package/comparison panels remain the fallback.

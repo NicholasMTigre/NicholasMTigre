@@ -1,0 +1,778 @@
+[
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 87,
+        "tag": "HEADER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 18.953125,
+        "tag": "A",
+        "text": "",
+        "width": 227.5
+      },
+      {
+        "cls": "home-main",
+        "height": 3425.0078125,
+        "tag": "MAIN",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "",
+        "height": 131.0390625,
+        "tag": "H1",
+        "text": "Real estate photosand property videos.",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 26.875,
+        "tag": "H2",
+        "text": "Choose a package",
+        "width": 192.1328125
+      },
+      {
+        "cls": "service-picker",
+        "height": 369.75,
+        "tag": "DIV",
+        "text": "",
+        "width": 337.5
+      },
+      {
+        "cls": "package-panel",
+        "height": 498.09375,
+        "tag": "ARTICLE",
+        "text": "",
+        "width": 335.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Show more of the property.",
+        "width": 324.1171875
+      },
+      {
+        "cls": "",
+        "height": 62.71875,
+        "tag": "H2",
+        "text": "A few details before booking.",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Check availability",
+        "width": 337.5
+      },
+      {
+        "cls": "site-footer",
+        "height": 161.015625,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 375,
+    "path": "/index.html",
+    "scroll": 375,
+    "text": "Skip to main content\nMenu\n\nNICO AEROMETRICS · BERGEN COUNTY, NJ\n\nReal estate photos\nand property videos.\n\nChoose your media. Check the price.\nRequest a date that works for you.\n\nSee what aerial media adds ↓\nChoose a package\nIntroductory rates · one residential property\n◎\nAerial Photos\nFrom $95\n↗\n▷\nAerial Video\nFrom $125\n↗\n＋\nPhotos + Video\nFrom $175\n↗\n⌂\nComplete Home Tour\nCustom quote\n↗\n\nIllustrative stock photography. Not Nico Aerometrics client work.\n\n05 PHOTOS\n\nAerial Photos\n\nShow the exterior, lot, and surroundings in 5 edited aerial photos.\n\n5 edited exterior aerial photos\nHigh-resolution JPEGs + web-ready copies\nOne property · one visit\n\nFrom $95\n\nRequest this package\n↗\nFull package details\nOptional add-ons — quoted separately\nAgent branding\nExtra edited photos\n\nSelect requests to include in your inquiry. Final price and availability are confirmed before booking.\n\nWHY ADD AERIAL MEDIA?\n\nShow more of the property.\n\nCompare what each format helps a buyer see.\n\nGround photo\n+ Aerial photo\n+ Tour video\nExterior details\n\nGround-level photos show the facade and entrance. They can leave the roof, rear yard, and wider setting outside the frame.\n\nConcept illustrations, not a real property, floor plan, survey, or sample deliverable.\n\nINDUSTRY ADOPTION\n\n48%\nof REALTORS® use drone photography or video.\n\nReported in NAR’s 2026 Technology Report.\n\nRead the NAR source ↗\n\nThis measures technology use, not sales lift. Aerial media adds visual context; a faster sale or higher price is not guaranteed.\n\nPLAN YOUR SHOOT\n\nA few details before booking.\n\nLocal service in Bergen County, scheduled around my NJIT classes.\n\nRequest a quote ↗\nWhich package suits my listing?\nCan I request extras?\nHow do scheduling and weather work?\nWhat should be ready at the property?\nCheck availability\n\nNicholas Tigre · NJIT Construction Management student\n\nntigre007@gmail.com ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 390
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 87,
+        "tag": "HEADER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 18.953125,
+        "tag": "A",
+        "text": "",
+        "width": 227.5
+      },
+      {
+        "cls": "",
+        "height": 4947.953125,
+        "tag": "MAIN",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "",
+        "height": 39.515625,
+        "tag": "H1",
+        "text": "Services & pricing",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Real estate media packages",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 62.71875,
+        "tag": "H2",
+        "text": "Interior and exterior coverage",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Scheduling",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Weather requirements",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 57.59375,
+        "tag": "H2",
+        "text": "Looking ahead: construction and mapping",
+        "width": 290.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Request a quote",
+        "width": 190.1171875
+      },
+      {
+        "cls": "site-footer",
+        "height": 161.015625,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 375,
+    "path": "/projects.html",
+    "scroll": 375,
+    "text": "Skip to main content\nMenu\n\nBERGEN COUNTY, NEW JERSEY / REAL ESTATE MEDIA\n\nServices & pricing\n\nIntroductory aerial photo and video packages for local real estate agents and companies, as I build my portfolio and experience.\n\nINTRODUCTORY PACKAGES\n\nReal estate media packages\n01 / PHOTOS\nAerial Photos\n\nFrom $95\n\n5 edited exterior aerial photos showing the property, lot, and surroundings. High-resolution JPEGs plus web-ready copies.\n\nFinal photo resolution depends on the selected equipment.\n\nAsk about photos ↗\n02 / VIDEO\nAerial Video\n\nFrom $125\n\nOne edited 20–30 second exterior aerial video, with music cleared for the agreed use. Choose landscape for a listing or vertical for social media.\n\nTarget delivery up to 4K, subject to equipment and the agreed format.\n\nAsk about video ↗\n03 / PHOTO + VIDEO\nPhotos + Video\n\nFrom $175\n\n5 edited aerial photos plus one edited 20–30 second exterior aerial video in your choice of landscape or vertical format.\n\nHigh-resolution photos; video up to 4K subject to equipment.\n\nAsk about the bundle ↗\n04 / WHOLE-HOME VIDEO\nComplete Home Tour\n\nCustom quote\n\nOne edited property tour that starts outside, moves through every room in the house, and ends back outside. Give buyers a connected view of the layout, interior spaces, and exterior.\n\nRoom coverage, route, length, filming method, and resolution are agreed after reviewing the home’s size and access. Indoor FPV filming is subject to equipment suitability, a safe route, and owner permission; a continuous single take is not guaranteed.\n\nRequest a home tour quote ↗\n\nIntroductory rates cover one residential property and one visit in Bergen County. Final price, achievable views, resolution, turnaround, listing/marketing usage, revisions, and any travel or extra editing charges are agreed in writing before booking. The three exterior packages exclude interior coverage. Complete Home Tour is quoted separately. No payment is collected here.\n\nOptional add-ons\n\nOptional add-ons can be requested: aerial photos with your home tour, extra edited photos, agent branding or title cards, and coverage of a garage, basement, or outdoor feature. Specify your requests when inquiring. Availability, feasibility, and additional pricing are confirmed in the written quote; no extras are added automatically.\n\nCOMPLETE HOME TOUR\n\nInterior and exterior coverage\n\nIllustrative stock photos of different homes.\nNot client work or frames from a filmed tour.\n\nEXTERIOR OPENING & CLOSING / STOCK PHOTO\nROOM-BY-ROOM COVERAGE / STOCK PHOTO\nScheduling\n\nSend your property location, preferred dates, and listing deadline. I’ll check my NJIT class schedule before confirming a shoot.\n\nWeather requirements\n\nWind and gusts can affect stability and footage quality. Forecasts, rain, visibility, airspace, and the selected drone’s limits are reviewed ahead of time and on the day. Unsuitable conditions mean discussing a new date before flying.\n\nLooking ahead: construction and mapping\n\nI hope to expand into construction documentation and advanced drone mapping, with surveying-related work as a longer-term goal subject to appropriate qualifications and professional involvement. These are future plans. Licensed surveying and engineering services are not currently offered.\n\nRequest a quote\nCheck availability ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 390
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 87,
+        "tag": "HEADER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 18.953125,
+        "tag": "A",
+        "text": "",
+        "width": 227.5
+      },
+      {
+        "cls": "",
+        "height": 1676.65625,
+        "tag": "MAIN",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "",
+        "height": 39.515625,
+        "tag": "H1",
+        "text": "Booking & delivery",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Property details",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Price and availability",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Weather checks",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Editing and delivery",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Request a quote",
+        "width": 190.1171875
+      },
+      {
+        "cls": "site-footer",
+        "height": 161.015625,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 375,
+    "path": "/skills.html",
+    "scroll": 375,
+    "text": "Skip to main content\nMenu\n\nTHE PROCESS\n\nBooking & delivery\n\nAgree on the media, timing, and conditions before a shoot is confirmed.\n\n01 / INQUIRE\nProperty details\n\nSend the location, preferred package, dates, and listing deadline. Mention desired views and whether the video is for a listing or social media.\n\n02 / CONFIRM\nPrice and availability\n\nI’ll check college availability, airspace, property access, and any required permissions. We’ll agree on price, deliverables, usage, revisions, and expected delivery date before booking.\n\n03 / WEATHER\nWeather checks\n\nWind and gusts can affect drone stability and smooth footage. Rain, visibility, and equipment limits also matter. Conditions are reviewed before takeoff; unsuitable weather means discussing a reschedule. No flight or specific view is guaranteed.\n\n04 / DELIVERY\nEditing and delivery\n\nAfter a confirmed shoot, I’ll edit and deliver the agreed photos or video digitally. Photo resolution and any 4K video delivery must be confirmed for the equipment and format before booking.\n\nRequest a quote\nPrepare an inquiry ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 390
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 87,
+        "tag": "HEADER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 18.953125,
+        "tag": "A",
+        "text": "",
+        "width": 227.5
+      },
+      {
+        "cls": "",
+        "height": 1282.71875,
+        "tag": "MAIN",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "",
+        "height": 39.515625,
+        "tag": "H1",
+        "text": "Nicholas Tigre",
+        "width": 337.5
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Background and services",
+        "width": 337.5
+      },
+      {
+        "cls": "site-footer",
+        "height": 161.015625,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 375,
+    "path": "/about.html",
+    "scroll": 375,
+    "text": "Skip to main content\nMenu\n\nOWNER / NICHOLAS TIGRE\n\nNicholas Tigre\n\nI’m Nicholas Tigre, a freshman at NJIT majoring in Construction Management and the owner of Nico Aerometrics, based in the Bergen County area of New Jersey.\n\nNT\nGROUND / AIR\nBackground and services\n\nI’m building a small drone media business alongside college, starting with exterior aerial photos and short videos for real estate agents and companies. I’m a beginner and plan to keep my initial packages focused, affordable, and clear about what’s included.\n\nMy longer-term goal connects to my major: expanding into construction documentation and mapping with advanced drones, and eventually exploring surveying-related work with the necessary qualifications and professional involvement. I do not currently offer licensed surveying or engineering.\n\nPlease reach out so I can check availability around classes. Every proposed shoot also needs a weather and location review.\n\nTalk about a shoot →\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 390
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 87,
+        "tag": "HEADER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 18.953125,
+        "tag": "A",
+        "text": "",
+        "width": 227.5
+      },
+      {
+        "cls": "",
+        "height": 1300.6015625,
+        "tag": "MAIN",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "",
+        "height": 39.515625,
+        "tag": "H1",
+        "text": "Request a quote",
+        "width": 337.5
+      },
+      {
+        "cls": "inquiry-layout",
+        "height": 1091.5859375,
+        "tag": "SECTION",
+        "text": "",
+        "width": 337.5
+      },
+      {
+        "cls": "site-footer",
+        "height": 161.015625,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 375
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 375,
+    "path": "/contact.html",
+    "scroll": 375,
+    "text": "Skip to main content\nMenu\nRequest a quote\n\nChoose a package and enter your property details. I’ll confirm pricing and availability.\n\nThis form prepares an email draft for you to review and send. Nothing is sent automatically.\n\nYour name\nYour email\nInterested in\nAerial Photos — photos, from $95\nAerial Video — video, from $125\nPhotos + Video — photos + video, from $175\nComplete Home Tour — custom quote\nHelp choosing a package\nFuture construction / mapping interest\nProperty address or town / state\nPreferred dates / listing deadline\nOptional add-ons / special requests\nListing / project details\nPrepare message ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 390
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 94,
+        "tag": "HEADER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 25.828125,
+        "tag": "A",
+        "text": "",
+        "width": 310
+      },
+      {
+        "cls": "home-main",
+        "height": 2051.765625,
+        "tag": "MAIN",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "",
+        "height": 127.84375,
+        "tag": "H1",
+        "text": "Real estate photosand property videos.",
+        "width": 657.71875
+      },
+      {
+        "cls": "",
+        "height": 26.875,
+        "tag": "H2",
+        "text": "Choose a package",
+        "width": 192.1328125
+      },
+      {
+        "cls": "service-picker",
+        "height": 205,
+        "tag": "DIV",
+        "text": "",
+        "width": 1215.90625
+      },
+      {
+        "cls": "package-panel",
+        "height": 226.59375,
+        "tag": "ARTICLE",
+        "text": "",
+        "width": 1213.90625
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Show more of the property.",
+        "width": 439.8671875
+      },
+      {
+        "cls": "",
+        "height": 85.109375,
+        "tag": "H2",
+        "text": "A few details before booking.",
+        "width": 466.46875
+      },
+      {
+        "cls": "",
+        "height": 31.359375,
+        "tag": "H2",
+        "text": "Check availability",
+        "width": 394.09375
+      },
+      {
+        "cls": "site-footer",
+        "height": 74.59375,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 1351,
+    "path": "/index.html",
+    "scroll": 1351,
+    "text": "Skip to main content\nHome\nServices\nProcess\nOwner\nProject inquiry\n\nNICO AEROMETRICS · BERGEN COUNTY, NJ\n\nReal estate photos\nand property videos.\n\nChoose your media. Check the price.\nRequest a date that works for you.\n\nSee what aerial media adds ↓\nChoose a package\nIntroductory rates · one residential property\n◎\nAerial Photos\nFrom $95\n↗\n▷\nAerial Video\nFrom $125\n↗\n＋\nPhotos + Video\nFrom $175\n↗\n⌂\nComplete Home Tour\nCustom quote\n↗\n\nIllustrative stock photography. Not Nico Aerometrics client work.\n\n05 PHOTOS\n\nAerial Photos\n\nShow the exterior, lot, and surroundings in 5 edited aerial photos.\n\n5 edited exterior aerial photos\nHigh-resolution JPEGs + web-ready copies\nOne property · one visit\n\nFrom $95\n\nRequest this package\n↗\nFull package details\nOptional add-ons — quoted separately\nAgent branding\nExtra edited photos\n\nSelect requests to include in your inquiry. Final price and availability are confirmed before booking.\n\nWHY ADD AERIAL MEDIA?\n\nShow more of the property.\n\nCompare what each format helps a buyer see.\n\nGround photo\n+ Aerial photo\n+ Tour video\nExterior details\n\nGround-level photos show the facade and entrance. They can leave the roof, rear yard, and wider setting outside the frame.\n\nConcept illustrations, not a real property, floor plan, survey, or sample deliverable.\n\nINDUSTRY ADOPTION\n\n48%\nof REALTORS® use drone photography or video.\n\nReported in NAR’s 2026 Technology Report.\n\nRead the NAR source ↗\n\nThis measures technology use, not sales lift. Aerial media adds visual context; a faster sale or higher price is not guaranteed.\n\nPLAN YOUR SHOOT\n\nA few details before booking.\n\nLocal service in Bergen County, scheduled around my NJIT classes.\n\nRequest a quote ↗\nWhich package suits my listing?\nCan I request extras?\nHow do scheduling and weather work?\nWhat should be ready at the property?\nCheck availability\n\nNicholas Tigre · NJIT Construction Management student\n\nntigre007@gmail.com ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 1366
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 94,
+        "tag": "HEADER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 25.828125,
+        "tag": "A",
+        "text": "",
+        "width": 310
+      },
+      {
+        "cls": "",
+        "height": 2601.3984375,
+        "tag": "MAIN",
+        "text": "",
+        "width": 1280
+      },
+      {
+        "cls": "",
+        "height": 63.921875,
+        "tag": "H1",
+        "text": "Services & pricing",
+        "width": 1144.90625
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Real estate media packages",
+        "width": 1144.90625
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Interior and exterior coverage",
+        "width": 473.4453125
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Scheduling",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Weather requirements",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 28.796875,
+        "tag": "H2",
+        "text": "Looking ahead: construction and mapping",
+        "width": 1097.90625
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Request a quote",
+        "width": 258.015625
+      },
+      {
+        "cls": "site-footer",
+        "height": 74.59375,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 1351,
+    "path": "/projects.html",
+    "scroll": 1351,
+    "text": "Skip to main content\nHome\nServices\nProcess\nOwner\nProject inquiry\n\nBERGEN COUNTY, NEW JERSEY / REAL ESTATE MEDIA\n\nServices & pricing\n\nIntroductory aerial photo and video packages for local real estate agents and companies, as I build my portfolio and experience.\n\nINTRODUCTORY PACKAGES\n\nReal estate media packages\n01 / PHOTOS\nAerial Photos\n\nFrom $95\n\n5 edited exterior aerial photos showing the property, lot, and surroundings. High-resolution JPEGs plus web-ready copies.\n\nFinal photo resolution depends on the selected equipment.\n\nAsk about photos ↗\n02 / VIDEO\nAerial Video\n\nFrom $125\n\nOne edited 20–30 second exterior aerial video, with music cleared for the agreed use. Choose landscape for a listing or vertical for social media.\n\nTarget delivery up to 4K, subject to equipment and the agreed format.\n\nAsk about video ↗\n03 / PHOTO + VIDEO\nPhotos + Video\n\nFrom $175\n\n5 edited aerial photos plus one edited 20–30 second exterior aerial video in your choice of landscape or vertical format.\n\nHigh-resolution photos; video up to 4K subject to equipment.\n\nAsk about the bundle ↗\n04 / WHOLE-HOME VIDEO\nComplete Home Tour\n\nCustom quote\n\nOne edited property tour that starts outside, moves through every room in the house, and ends back outside. Give buyers a connected view of the layout, interior spaces, and exterior.\n\nRoom coverage, route, length, filming method, and resolution are agreed after reviewing the home’s size and access. Indoor FPV filming is subject to equipment suitability, a safe route, and owner permission; a continuous single take is not guaranteed.\n\nRequest a home tour quote ↗\n\nIntroductory rates cover one residential property and one visit in Bergen County. Final price, achievable views, resolution, turnaround, listing/marketing usage, revisions, and any travel or extra editing charges are agreed in writing before booking. The three exterior packages exclude interior coverage. Complete Home Tour is quoted separately. No payment is collected here.\n\nOptional add-ons\n\nOptional add-ons can be requested: aerial photos with your home tour, extra edited photos, agent branding or title cards, and coverage of a garage, basement, or outdoor feature. Specify your requests when inquiring. Availability, feasibility, and additional pricing are confirmed in the written quote; no extras are added automatically.\n\nCOMPLETE HOME TOUR\n\nInterior and exterior coverage\n\nIllustrative stock photos of different homes.\nNot client work or frames from a filmed tour.\n\nEXTERIOR OPENING & CLOSING / STOCK PHOTO\nROOM-BY-ROOM COVERAGE / STOCK PHOTO\nScheduling\n\nSend your property location, preferred dates, and listing deadline. I’ll check my NJIT class schedule before confirming a shoot.\n\nWeather requirements\n\nWind and gusts can affect stability and footage quality. Forecasts, rain, visibility, airspace, and the selected drone’s limits are reviewed ahead of time and on the day. Unsuitable conditions mean discussing a new date before flying.\n\nLooking ahead: construction and mapping\n\nI hope to expand into construction documentation and advanced drone mapping, with surveying-related work as a longer-term goal subject to appropriate qualifications and professional involvement. These are future plans. Licensed surveying and engineering services are not currently offered.\n\nRequest a quote\nCheck availability ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 1366
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 94,
+        "tag": "HEADER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 25.828125,
+        "tag": "A",
+        "text": "",
+        "width": 310
+      },
+      {
+        "cls": "",
+        "height": 887.3828125,
+        "tag": "MAIN",
+        "text": "",
+        "width": 1280
+      },
+      {
+        "cls": "",
+        "height": 63.921875,
+        "tag": "H1",
+        "text": "Booking & delivery",
+        "width": 1144.90625
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Property details",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Price and availability",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Weather checks",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 35.8359375,
+        "tag": "H2",
+        "text": "Editing and delivery",
+        "width": 558.453125
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Request a quote",
+        "width": 258.015625
+      },
+      {
+        "cls": "site-footer",
+        "height": 74.59375,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 1351,
+    "path": "/skills.html",
+    "scroll": 1351,
+    "text": "Skip to main content\nHome\nServices\nProcess\nOwner\nProject inquiry\n\nTHE PROCESS\n\nBooking & delivery\n\nAgree on the media, timing, and conditions before a shoot is confirmed.\n\n01 / INQUIRE\nProperty details\n\nSend the location, preferred package, dates, and listing deadline. Mention desired views and whether the video is for a listing or social media.\n\n02 / CONFIRM\nPrice and availability\n\nI’ll check college availability, airspace, property access, and any required permissions. We’ll agree on price, deliverables, usage, revisions, and expected delivery date before booking.\n\n03 / WEATHER\nWeather checks\n\nWind and gusts can affect drone stability and smooth footage. Rain, visibility, and equipment limits also matter. Conditions are reviewed before takeoff; unsuitable weather means discussing a reschedule. No flight or specific view is guaranteed.\n\n04 / DELIVERY\nEditing and delivery\n\nAfter a confirmed shoot, I’ll edit and deliver the agreed photos or video digitally. Photo resolution and any 4K video delivery must be confirmed for the equipment and format before booking.\n\nRequest a quote\nPrepare an inquiry ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 1366
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 94,
+        "tag": "HEADER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 25.828125,
+        "tag": "A",
+        "text": "",
+        "width": 310
+      },
+      {
+        "cls": "",
+        "height": 740.5625,
+        "tag": "MAIN",
+        "text": "",
+        "width": 1280
+      },
+      {
+        "cls": "",
+        "height": 63.921875,
+        "tag": "H1",
+        "text": "Nicholas Tigre",
+        "width": 1144.90625
+      },
+      {
+        "cls": "",
+        "height": 42.5546875,
+        "tag": "H2",
+        "text": "Background and services",
+        "width": 745.8125
+      },
+      {
+        "cls": "site-footer",
+        "height": 74.59375,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 1351,
+    "path": "/about.html",
+    "scroll": 1351,
+    "text": "Skip to main content\nHome\nServices\nProcess\nOwner\nProject inquiry\n\nOWNER / NICHOLAS TIGRE\n\nNicholas Tigre\n\nI’m Nicholas Tigre, a freshman at NJIT majoring in Construction Management and the owner of Nico Aerometrics, based in the Bergen County area of New Jersey.\n\nNT\nGROUND / AIR\nBackground and services\n\nI’m building a small drone media business alongside college, starting with exterior aerial photos and short videos for real estate agents and companies. I’m a beginner and plan to keep my initial packages focused, affordable, and clear about what’s included.\n\nMy longer-term goal connects to my major: expanding into construction documentation and mapping with advanced drones, and eventually exploring surveying-related work with the necessary qualifications and professional involvement. I do not currently offer licensed surveying or engineering.\n\nPlease reach out so I can check availability around classes. Every proposed shoot also needs a weather and location review.\n\nTalk about a shoot →\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 1366
+  },
+  {
+    "boxes": [
+      {
+        "cls": "site-header js-menu",
+        "height": 94,
+        "tag": "HEADER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 25.828125,
+        "tag": "A",
+        "text": "",
+        "width": 310
+      },
+      {
+        "cls": "",
+        "height": 1035.1171875,
+        "tag": "MAIN",
+        "text": "",
+        "width": 1280
+      },
+      {
+        "cls": "",
+        "height": 63.921875,
+        "tag": "H1",
+        "text": "Request a quote",
+        "width": 1144.90625
+      },
+      {
+        "cls": "inquiry-layout",
+        "height": 834.1953125,
+        "tag": "SECTION",
+        "text": "",
+        "width": 900
+      },
+      {
+        "cls": "site-footer",
+        "height": 74.59375,
+        "tag": "FOOTER",
+        "text": "",
+        "width": 1351
+      },
+      {
+        "cls": "brand brand-logo",
+        "height": 20.828125,
+        "tag": "A",
+        "text": "",
+        "width": 250
+      }
+    ],
+    "client": 1351,
+    "path": "/contact.html",
+    "scroll": 1351,
+    "text": "Skip to main content\nHome\nServices\nProcess\nOwner\nProject inquiry\nRequest a quote\n\nChoose a package and enter your property details. I’ll confirm pricing and availability.\n\nThis form prepares an email draft for you to review and send. Nothing is sent automatically.\n\nYour name\nYour email\nInterested in\nAerial Photos — photos, from $95\nAerial Video — video, from $125\nPhotos + Video — photos + video, from $175\nComplete Home Tour — custom quote\nHelp choosing a package\nFuture construction / mapping interest\nProperty address or town / state\nPreferred dates / listing deadline\nOptional add-ons / special requests\nListing / project details\nPrepare message ↗\n\nOwner: Nicholas Tigre\n\nntigre007@gmail.com",
+    "width": 1366
+  }
+]
